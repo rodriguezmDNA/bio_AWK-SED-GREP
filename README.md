@@ -2,7 +2,7 @@
 
 AWK, SED and GREP for biology
 
-The AWK tutorial [click here](Understanding_AWK.ipynb) contains a (semi) quick introduction to AWK and how to process biological data. So far I focus on how to 
+The AWK tutorial ([click here](Understanding_AWK.ipynb)) contains a (semi) quick introduction to AWK and how to process biological data. So far I focus on how to 
 
 * Filter SAM files by quality.
 * Filter FASTA files by name or matching a sequence.
