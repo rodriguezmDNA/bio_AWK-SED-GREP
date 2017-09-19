@@ -1,6 +1,6 @@
 \# bioinfo_AWK_SED_GREP
 
- 
+<script src="https://gist.github.com/rodriguezmDNA/a9452f4831ad54a6a4f4cb06fef9effd.js"></script> 
 
 AWK, SED and GREP for biology
 
