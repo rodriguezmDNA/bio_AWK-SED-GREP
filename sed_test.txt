@@ -1,0 +1,7 @@
+ rowA		1	9	
+
+ . 	2	7	10
+file3	3	6	20
+ file4	4	5	
+line_a	12	13	144
+ line_b			177
