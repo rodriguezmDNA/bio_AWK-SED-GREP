@@ -7,9 +7,7 @@ AWK, SED and GREP for biology
  
 
 The AWK tutorial ([click here](Understanding_AWK.ipynb)) contains a (semi) quick
-introduction to AWK and how to process biological data. So far I focus on how to
-
- 
+introduction to AWK and how to process biological data. So far I focus on how to:
 
 \* Filter SAM files by quality.
 
@@ -19,7 +17,15 @@ introduction to AWK and how to process biological data. So far I focus on how to
 
 \* Take random samples from FASTA and FASTQ files.
 
- 
+---
+
+The SED tutorial ([click here](Understanding_SED.ipynb)) contains a (semi) quick
+introduction to AWK and how to process biological data. So far I focus on how to:
+
+\* Modify FASTA files:
+	\* Convert a multiline FASTA file into a two-lines-per-read format.
+	\* Reverse complement of a FASTA file. If it happens to be in lowercase and multiline performs same operation as above	
+\* Convert a FASTQ file into FASTA
 
  
 
